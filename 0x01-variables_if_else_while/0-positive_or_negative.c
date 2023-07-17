@@ -2,12 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
+/**
  * main - Entry point
  * void: No argument
  *
  * Return: Always 0
-*/
+**/
 
 int main(void)
 {
